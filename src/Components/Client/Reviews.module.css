@@ -1,0 +1,33 @@
+.review {
+  padding: 20px;
+  background: white;
+  border: 1px solid #dac5c5;
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.name span {
+  background: rgb(236, 223, 223);
+  padding: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.img {
+  width: 25px;
+  margin-right: 3px;
+  margin-top: 5px;
+}
+
+.review > h2 {
+  margin: 5px 0px;
+}
+
+.review > h3 {
+  margin: 10px 0px;
+}

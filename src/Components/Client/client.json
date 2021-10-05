@@ -1,0 +1,168 @@
+{
+  "trustpilot": {
+    "id": 1,
+    "website": "Trustpilot",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Bhavya Goel",
+        "rating": 5,
+        "date": "7 August",
+        "title": "Getting IONIC developer in Utah was not…",
+        "content": "Getting IONIC developer in Utah was not easy. We scrambled to get the right developer for months. On google search we found Ezapp has ample IONIC developers and work quality was guaranteed. So, we tried them and it was good decision as we saved lot of money by outsourcing to Ezapp. Their developers are qualitative in deliverables as well as Professional."
+      },
+      {
+        "id": 2,
+        "name": "Muskaan Mishra",
+        "rating": 5,
+        "date": "27 July, 2021",
+        "title": "App development using React/Nodejs is…",
+        "content": "App development using React/Nodejs is popular choice as it reduces time to build and getting a developer offshore is easy with Ezapp. We have built Enterprise App in lessee time and 50% less cost with Ezapp. Doing Remote Dev work was Zero risk as all the guarantees were provided upfront and we never had issue on quality of the dev work from Ezapp. We had good working experience with Ezapp team."
+      },
+      {
+        "id": 3,
+        "name": "Ajit Verma",
+        "rating": 5,
+        "date": "24 May, 2021",
+        "title": "The highly specialized and professional…",
+        "content": "The highly specialized and professional team delivering on-time results"
+      },
+      {
+        "id": 4,
+        "name": "Tamal Chatterjee",
+        "rating": 5,
+        "date": "19 May, 2021",
+        "title": "Excellent company",
+        "content": "Ezappsolution is a good company with good advancement opportunities. Great benefits, fair paid time off. Good work ethic, fun and professional management."
+      },
+      {
+        "id": 5,
+        "name": "Yash Mehra",
+        "rating": 5,
+        "date": "19 April, 2021",
+        "title": "Ezapp is immaculate workplace",
+        "content": "Ezapp is immaculate workplace, everyone is given freedom and choice to work on the type of the project they can best fit. Company’s culture is good and passionate people are preferred here instead of job seekers. I enjoy working at ezapp."
+      },
+      {
+        "id": 6,
+        "name": "Basant Bhatt",
+        "rating": 5,
+        "date": "2 April, 2021",
+        "title": "App Development companies have springed…",
+        "content": "App Development companies have springed in Delhi/NCR like never before but Ezapp is been around more than a decade and my work experience with them is enriched with satisfaction and pleasure to enjoy the work. I am happy to be part of the Ezapp tech squad."
+      },
+      {
+        "id": 7,
+        "name": "Deepak Katankar",
+        "rating": 5,
+        "date": "25 March, 2021",
+        "title": "The best sites for remote jobs",
+        "content": "One of the best sites for remote jobs USA for Python Developer, React Developer, Java Developer, .NET Python Developer, Flutter Developer, Angular Developer, Data Analyst, Data Scientist offering professional career opportunities."
+      },
+      {
+        "id": 8,
+        "name": "Akshay Awasthi",
+        "rating": 5,
+        "date": "25 March, 2021",
+        "title": "Best Software Development Company",
+        "content": "Good hikes, corporate lifestyle. The company work environment is very friendly and cooperative. The co-workers are always ready to help."
+      },
+      {
+        "id": 9,
+        "name": "Sachin Saxena",
+        "rating": 5,
+        "date": "22 March, 2021",
+        "title": "Great Company",
+        "content": "Great Company, great working platform, They have many projects and technologies to work on."
+      },
+      {
+        "id": 10,
+        "name": "Vinit Dhiman",
+        "rating": 5,
+        "date": "20 March, 2021",
+        "title": "Work is the key to next pursuit",
+        "content": "Work is the key to next pursuit. At Ezapp leadership gave lessons that I now feel joyful and transformative always to contribute for the highest success of the clients. Great place to work!"
+      }
+    ]
+  },
+  "wadline": {
+    "id": 2,
+    "website": "Wadline",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "______",
+        "rating": 4,
+        "title": "",
+        "content": "lorenzsl;dkfj;lasdj;lfj;asd;lfasl;df"
+      }
+    ]
+  },
+  "goodfirms": {
+    "id": 3,
+    "website": "Goodfirms",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Yog Herbal",
+        "rating": 5,
+        "title": "Software Developer Czar.",
+        "content": "We hired EzappSolution to build the custom CRM solution integrated with Google Analytics. Software allowed us to manage the leads and convert the inquiries for Bulk orders.        Our Goal was to identify prospects and identify the Cumulative Conversion Value of Customers with Optimal solution that could get easily integrated with Google Analytics and provide us Single View of the Dashboard. Solution provided by Ezapp Solution solved our needs and it was right under our budget."
+      },
+      {
+        "id": 2,
+        "name": "Jatin Udwadia",
+        "rating": 5,
+        "title": "Great experience",
+        "content": "Role: Head Marketing at Southeast Asia Impex Right off the bat, Gaurav was very professional and understood the ethos of our company and the drive our company exudes. It was a seamless process to coordinate with the team and props to Gaurav and Adarsh for exhibiting great customer relationship skills and more importantly - they heard me out before rolling out their suggestions. I would definitely continue using their services on a long term basis."
+      }
+    ]
+  },
+  "sem": {
+    "id": 4,
+    "website": "Semfirms",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Komal Yadav",
+        "rating": 4,
+        "title": "software development",
+        "content": "Ezapp has proved to be dominating software developer for all our different departments needs. Ezapp Solution has team of savvy developers with skills that allows us to address the pain points of our Business needs and solves end customer needs."
+      },
+      {
+        "id": 2,
+        "name": "Rakhi Makhija",
+        "rating": 5,
+        "title": "CRM Marketing",
+        "content": "Custom ERP Solution developed by Ezapp Solution satisfied all stakeholders requirements. We were able to easily integrate the ERP suite to Salesforce CRM and other Marketing Lead management platforms. Quality of the Software developed was excellent and team of Ezapp met adhoc requirement development needs without any fuss. We liked working with Ezapp team and would like to hire them for future projects."
+      }
+    ]
+  },
+  "topdevelopers": {
+    "id": 5,
+    "website": "TopDevelopers",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Akshay Sharma",
+        "rating": 5,
+        "title": "Exceptional Hospitality Revenue Management Development!",
+        "content": "Ezapp was hired for the development of the Hotel Property Management and Revenue Management system. Ezapp team is quality driven and very much experienced on developing the Hotel Management system. With small inputs Ezapp team was able to integrate the Property Management with 3rd party vendors TravelClick, Kalibiri APIs and Build the Business Intelligence Reporting for Ops. We are amazed with the expertise on technology and grip of making the changes based on the quick notice. We are now working on 3rd project with Ezapp after getting complete satisfaction on Quality, Technology and Professionalism."
+      },
+      {
+        "id": 2,
+        "name": "Preet Goyal",
+        "rating": 5,
+        "title": "Web Development Expert",
+        "content": "We offered to EzappSolution to re-engineer existing Web stack for Supply Chain services. Ezapp Solution started delivering core functions to our team with in 2weeks. They delivered us a robust stack with complete integration of CRM, Supply Chain, Logistics tracking, Campaign Management, Google Analytics at fraction of the cost. It was easy to Offshore the project to Ezapp Solution and get complete satisfaction on Software development."
+      },
+      {
+        "id": 3,
+        "name": "Ashutosh Tyagi",
+        "rating": 5,
+        "title": "We found their team had good experience",
+        "content": "We hired Ezapp Solution with effective screening of 7 Software development agencies. We found their team had good experience building Education portals plus they offered us flexible and serverless architecture. Their team was able to build streaming serving using AWS Firehouse. We recommend them to those Entrepreneurs who are looking for a build robust and scalable Education platform using AWS and Machine Learning."
+      }
+    ]
+  }
+}

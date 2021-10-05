@@ -1,0 +1,72 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  padding: 0px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10;
+  background: white;
+  border: 1px solid none;
+  box-shadow: 15px 3px 28px #add0da;
+}
+nav > ul {
+  list-style: none;
+  display: flex;
+  margin-right: 10px;
+}
+
+nav > ul > li {
+  font-size: large;
+  padding: 20px;
+}
+
+nav > ul > li button {
+  border: none;
+  background: none;
+  font-size: 1rem;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+nav > ul > li a {
+  border: none;
+  background: none;
+  font-size: 1rem;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.nav-list {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+}
+.nav-list:hover {
+  background-color: gainsboro;
+  transition: 0.8s;
+}
+
+.logo {
+  width: 200px;
+}
+
+.nav-brand {
+  border: none;
+  background: none;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.nav-span {
+  font-size: 40px;
+  font-weight: bolder;
+  /* color: linear-gradient(, ); */
+  background: -webkit-linear-gradient(#22fb8c, #0db2e5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
